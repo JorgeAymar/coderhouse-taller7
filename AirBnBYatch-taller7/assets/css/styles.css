@@ -1,0 +1,9 @@
+
+#myCarr {
+  height: 300px;
+  width: 300vw;
+  background-color: darkblue;
+  position : fixed;
+  bottom:-300;
+  color: white;
+}
